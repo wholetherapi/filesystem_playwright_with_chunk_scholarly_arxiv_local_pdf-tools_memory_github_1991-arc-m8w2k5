@@ -1,0 +1,31 @@
+{
+  "id": "stream-ingest",
+  "title": "Exactly-Once Stream Ingestion under Schema Drift",
+  "venue": "DEBS",
+  "venue_full": "ACM International Conference on Distributed Event-Based Systems",
+  "year": 2026,
+  "published_on": "2026-03-14",
+  "contributors": [
+    {
+      "name": "Beatriz Salgado",
+      "equal_contribution": true
+    },
+    {
+      "name": "Rahul Menon",
+      "equal_contribution": false
+    },
+    {
+      "name": "Jonas Ekstrom",
+      "equal_contribution": true
+    },
+    {
+      "name": "Wen Li",
+      "equal_contribution": false
+    }
+  ],
+  "links": {
+    "record": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/records/stream-ingest.json",
+    "brief": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/briefs/stream-ingest.pdf"
+  },
+  "summary": "A checkpointing protocol that keeps exactly-once ingestion guarantees while upstream schemas evolve between producer releases."
+}

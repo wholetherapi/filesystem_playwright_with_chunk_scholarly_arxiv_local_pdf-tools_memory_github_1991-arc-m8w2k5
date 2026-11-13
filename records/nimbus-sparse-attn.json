@@ -1,0 +1,43 @@
+{
+  "id": "nimbus-sparse-attn",
+  "title": "Triton-Kernel Autotuning for Sparse Attention at Scale",
+  "venue": "MLSys",
+  "venue_full": "Conference on Machine Learning and Systems",
+  "year": 2026,
+  "published_on": "2026-09-18",
+  "contributors": [
+    {
+      "name": "Anselm Ferreira",
+      "equal_contribution": true
+    },
+    {
+      "name": "Noemi Halvorsen",
+      "equal_contribution": true
+    },
+    {
+      "name": "Yuki Tanabe",
+      "equal_contribution": false
+    },
+    {
+      "name": "Priyanka Devan",
+      "equal_contribution": false
+    },
+    {
+      "name": "Marisol Quintero",
+      "equal_contribution": false
+    },
+    {
+      "name": "Devin Achebe",
+      "equal_contribution": true
+    },
+    {
+      "name": "Lior Bercovici",
+      "equal_contribution": false
+    }
+  ],
+  "links": {
+    "record": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/records/nimbus-sparse-attn.json",
+    "brief": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/briefs/nimbus-sparse-attn.pdf"
+  },
+  "summary": "Sparse attention kernels dominate long-context inference cost. We autotune Triton kernels against a PyTorch reference path, profile occupancy and memory traffic on Kubernetes inference pools, and keep the tuning harness in Python. The winning configurations cut time-to-first-token by 38% on production traffic while holding numerics within tolerance."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sketch-monitor",
+  "title": "Streaming Sketch Structures for Tail-Latency Monitoring",
+  "venue": "ACM Operational ML Workshop",
+  "venue_full": "ACM Operational ML Workshop",
+  "year": 2025,
+  "published_on": "2025-05-20",
+  "contributors": [
+    {
+      "name": "Noemi Halvorsen",
+      "equal_contribution": true
+    },
+    {
+      "name": "Kenji Arata",
+      "equal_contribution": false
+    }
+  ],
+  "links": {
+    "record": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/records/sketch-monitor.json",
+    "brief": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/briefs/sketch-monitor.pdf"
+  },
+  "summary": "Tail latency hides in the p99. We maintain mergeable sketch structures computed in Spark, export them to Prometheus, and page on Grafana when the estimated tail crosses its budget."
+}

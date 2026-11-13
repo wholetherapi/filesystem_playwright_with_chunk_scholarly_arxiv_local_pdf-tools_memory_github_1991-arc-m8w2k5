@@ -1,0 +1,27 @@
+{
+  "id": "cache-partition",
+  "title": "Adaptive Cache Partitioning for Multi-Tenant Feature Stores",
+  "venue": "Journal of Data Systems Engineering",
+  "venue_full": "Journal of Data Systems Engineering",
+  "year": 2024,
+  "published_on": "2024-11-05",
+  "contributors": [
+    {
+      "name": "Noemi Halvorsen",
+      "equal_contribution": true
+    },
+    {
+      "name": "Tobias Lindqvist",
+      "equal_contribution": true
+    },
+    {
+      "name": "Rhea Mendonca",
+      "equal_contribution": false
+    }
+  ],
+  "links": {
+    "record": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/records/cache-partition.json",
+    "brief": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/briefs/cache-partition.pdf"
+  },
+  "summary": "Multi-tenant feature stores contend for the same cache. We model tenant demand from dbt-managed warehouse tables, repartition the cache with a Spark job, and expose per-tenant SLOs through SQL dashboards."
+}

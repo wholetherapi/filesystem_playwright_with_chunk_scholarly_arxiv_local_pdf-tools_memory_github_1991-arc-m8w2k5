@@ -1,0 +1,94 @@
+[
+  {
+    "id": "nimbus-sparse-attn",
+    "title": "Triton-Kernel Autotuning for Sparse Attention at Scale",
+    "venue": "MLSys",
+    "year": 2026,
+    "published_on": "2026-09-18",
+    "contributors": [
+      "Anselm Ferreira",
+      "Noemi Halvorsen",
+      "Yuki Tanabe",
+      "Priyanka Devan",
+      "Marisol Quintero",
+      "Devin Achebe",
+      "Lior Bercovici"
+    ]
+  },
+  {
+    "id": "edge-attn-decoy",
+    "title": "Autotuning Sparse Attention Kernels for Edge Accelerators",
+    "venue": "HotEdge",
+    "year": 2026,
+    "published_on": "2026-08-11",
+    "contributors": [
+      "Nadia Halvorsen",
+      "Ben Oduya",
+      "Chiara Bassi",
+      "Tomasz Wierzbicki"
+    ]
+  },
+  {
+    "id": "quantized-rerank",
+    "title": "Vectorized Reranking with Learned Quantization",
+    "venue": "ECIR",
+    "year": 2026,
+    "published_on": "2026-07-02",
+    "contributors": [
+      "Sofia Berglund",
+      "Noemi Halvorsen",
+      "Amara Nwosu",
+      "Felix Grimaldi",
+      "Hana Sato",
+      "Oskar Vinter"
+    ]
+  },
+  {
+    "id": "stream-ingest",
+    "title": "Exactly-Once Stream Ingestion under Schema Drift",
+    "venue": "DEBS",
+    "year": 2026,
+    "published_on": "2026-03-14",
+    "contributors": [
+      "Beatriz Salgado",
+      "Rahul Menon",
+      "Jonas Ekstrom",
+      "Wen Li"
+    ]
+  },
+  {
+    "id": "graph-sampling",
+    "title": "Adaptive Graph Sampling for Recommendation Cold Starts",
+    "venue": "RecSys",
+    "year": 2025,
+    "published_on": "2025-10-01",
+    "contributors": [
+      "Ivo Petrov",
+      "Lucia Marchetti",
+      "Samir Haddad"
+    ]
+  },
+  {
+    "id": "sketch-monitor",
+    "title": "Streaming Sketch Structures for Tail-Latency Monitoring",
+    "venue": "ACM Operational ML Workshop",
+    "year": 2025,
+    "published_on": "2025-05-20",
+    "contributors": [
+      "Noemi Halvorsen",
+      "Kenji Arata"
+    ]
+  },
+  {
+    "id": "cache-partition",
+    "title": "Adaptive Cache Partitioning for Multi-Tenant Feature Stores",
+    "venue": "Journal of Data Systems Engineering",
+    "year": 2024,
+    "published_on": "2024-11-05",
+    "contributors": [
+      "Noemi Halvorsen",
+      "Tobias Lindqvist",
+      "Rhea Mendonca"
+    ]
+  }
+]

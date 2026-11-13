@@ -1,0 +1,27 @@
+{
+  "id": "graph-sampling",
+  "title": "Adaptive Graph Sampling for Recommendation Cold Starts",
+  "venue": "RecSys",
+  "venue_full": "ACM Conference on Recommender Systems",
+  "year": 2025,
+  "published_on": "2025-10-01",
+  "contributors": [
+    {
+      "name": "Ivo Petrov",
+      "equal_contribution": true
+    },
+    {
+      "name": "Lucia Marchetti",
+      "equal_contribution": false
+    },
+    {
+      "name": "Samir Haddad",
+      "equal_contribution": false
+    }
+  ],
+  "links": {
+    "record": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/records/graph-sampling.json",
+    "brief": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/briefs/graph-sampling.pdf"
+  },
+  "summary": "A neighbourhood sampler that adapts its fan-out to node degree improves cold-start recommendations without increasing serving cost."
+}

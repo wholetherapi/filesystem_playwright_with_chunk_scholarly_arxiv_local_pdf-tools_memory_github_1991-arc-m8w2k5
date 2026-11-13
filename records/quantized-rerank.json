@@ -1,0 +1,39 @@
+{
+  "id": "quantized-rerank",
+  "title": "Vectorized Reranking with Learned Quantization",
+  "venue": "ECIR",
+  "venue_full": "European Conference on Information Retrieval",
+  "year": 2026,
+  "published_on": "2026-07-02",
+  "contributors": [
+    {
+      "name": "Sofia Berglund",
+      "equal_contribution": true
+    },
+    {
+      "name": "Noemi Halvorsen",
+      "equal_contribution": true
+    },
+    {
+      "name": "Amara Nwosu",
+      "equal_contribution": false
+    },
+    {
+      "name": "Felix Grimaldi",
+      "equal_contribution": false
+    },
+    {
+      "name": "Hana Sato",
+      "equal_contribution": true
+    },
+    {
+      "name": "Oskar Vinter",
+      "equal_contribution": false
+    }
+  ],
+  "links": {
+    "record": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/records/quantized-rerank.json",
+    "brief": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/briefs/quantized-rerank.pdf"
+  },
+  "summary": "We pair FAISS graph traversal with learned product quantization and batch the reranking stage in NumPy, then serve the compressed index from a small Python service. Recall@10 stays within 0.4 points of the float baseline at a quarter of the memory footprint."
+}

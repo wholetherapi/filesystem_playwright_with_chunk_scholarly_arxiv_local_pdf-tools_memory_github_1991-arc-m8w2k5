@@ -1,0 +1,31 @@
+{
+  "id": "edge-attn-decoy",
+  "title": "Autotuning Sparse Attention Kernels for Edge Accelerators",
+  "venue": "HotEdge",
+  "venue_full": "Workshop on Hot Topics in Edge Computing",
+  "year": 2026,
+  "published_on": "2026-08-11",
+  "contributors": [
+    {
+      "name": "Nadia Halvorsen",
+      "equal_contribution": true
+    },
+    {
+      "name": "Ben Oduya",
+      "equal_contribution": false
+    },
+    {
+      "name": "Chiara Bassi",
+      "equal_contribution": false
+    },
+    {
+      "name": "Tomasz Wierzbicki",
+      "equal_contribution": false
+    }
+  ],
+  "links": {
+    "record": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/records/edge-attn-decoy.json",
+    "brief": "https://raw.githubusercontent.com/wholetherapi/filesystem_playwright_with_chunk_scholarly_arxiv_local_pdf-tools_memory_github_1991-arc-m8w2k5/main/briefs/edge-attn-decoy.pdf"
+  },
+  "summary": "We compare CUDA and TensorRT implementations of block-sparse attention for battery-constrained edge accelerators and report latency/energy trade-offs."
+}
